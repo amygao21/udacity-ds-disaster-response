@@ -1,8 +1,9 @@
 # udacity-ds-disaster-response
 ml-pipeline project 
 # Disaster Response Pipeline Project
-
-### Instructions:
+### Objective:
+In this project, I applied machine learning pipeline skills to analyze disaster data from Appen (formally Figure 8) to build a model for an API that classifies disaster messages. this project used NLP techniques to classify disater messages and sort into 36 categories. The result will be shown on the web app interface.
+### Methods:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
