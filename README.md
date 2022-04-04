@@ -1,4 +1,5 @@
 # udacity-ds-disaster-response
+https://github.com/amygao21/udacity-ds-disaster-response
 ml-pipeline project 
 # Disaster Response Pipeline Project
 ### Objective:
@@ -16,3 +17,4 @@ In this project, I applied machine learning pipeline skills to analyze disaster 
 3. Run your web app: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
+https://github.com/amygao21/udacity-ds-disaster-response
